@@ -224,6 +224,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 
 * [Google Analytics](https://analytics.google.com/) - The most widely used web analytics platform that tracks website traffic, user behavior, conversions, and campaign performance in real-time.
 * [Adobe Marketing Cloud](https://www.adobe.com/ca/marketing-cloud.html) - Enterprise-level suite offering advanced analytics, customer journey insights, and personalized marketing experiences across channels.
+* [Convertlyft](https://convertlyft.com) – web analytics that shows funnel drop-offs and a ranked list of fixes, plus visit recordings, errors, speed and SEO.
 * [Kissmetrics](https://www.kissmetrics.com/) - Customer-focused analytics tool that tracks user actions over time and helps identify retention drivers and conversion bottlenecks.
 * [Optimizely](https://www.optimizely.com/) - Platform for A/B testing and experimentation that allows marketers to optimize user experiences based on real-time behavior data.
 * [Heap](https://heapanalytics.com/) - Automatic event tracking tool that captures every user interaction without requiring manual tagging, enabling deep behavioral insights.
